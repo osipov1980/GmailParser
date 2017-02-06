@@ -1,7 +1,7 @@
 import email, imaplib
 
 user = "osipov180"
-pwd = "marat1991"
+pwd = ""
 
 # connecting to the gmail imap server
 m = imaplib.IMAP4_SSL("imap.gmail.com")
